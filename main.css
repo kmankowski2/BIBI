@@ -1,0 +1,13 @@
+html{
+    background: black;
+   
+}
+div{
+    position: absolute;
+    top: 60%;
+    
+}
+p{
+    position: absolute;
+    top: 33%;
+}
